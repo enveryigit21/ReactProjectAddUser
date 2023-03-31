@@ -1,0 +1,16 @@
+{
+    "users" : [
+        {
+            "id": 1 ,
+            "name" : "Enver Yigit",
+            "department" : "Matematik Teknolojileri",
+            "salary"  : "6000"
+          },
+          {
+            "id": 2 ,
+            "name" : "Ahmet Yigit",
+            "department" : "Fizik Teknolojileri",
+            "salary"  : "23000"
+          }
+    ]
+}
